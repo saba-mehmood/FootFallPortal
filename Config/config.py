@@ -13,3 +13,5 @@ class TestData:
     DESC ='Testing'
     LOCATION = 'Level2'
     STREAM_URL = 'rtsp://footfall:Pak1stan.@182.180.48.198/Streaming/Channels/701'
+
+    YALLAH = 'https://testuser.yallagrub.com'
